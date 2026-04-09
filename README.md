@@ -1,20 +1,20 @@
-#Exercise Python
+# Exercise Python
 
 Este repositório contém exercícios que estou praticando em Python. A ideia é reunir aqui diferentes problemas e suas respectivas soluções, servindo como um espaço de aprendizado e evolução contínua.
 
-##Objetivo
+## Objetivo
 
--Consolidar conceitos básicos e intermediários de Python.
+- Consolidar conceitos básicos e intermediários de Python.
 
--Praticar lógica de programação.
+- Praticar lógica de programação.
 
--Criar um histórico de exercícios resolvidos para futuras consultas.
+- Criar um histórico de exercícios resolvidos para futuras consultas.
 
-##Estrutura
+## Estrutura
 
 Cada arquivo representa um exercício ou conjunto de exercícios resolvidos. Conforme avanço nos estudos, novos arquivos e soluções serão adicionados.
 
-##Como usar
+## Como usar
 
 Clone este repositório:
 
