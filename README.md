@@ -1,35 +1,23 @@
-# Exercise Python
+# Exercícios em Python 🐍
 
-Este repositório contém exercícios que estou praticando em Python. A ideia é reunir aqui diferentes problemas e suas respectivas soluções, servindo como um espaço de aprendizado e evolução contínua.
+Este repositório contém exercícios que estou praticando em **Python**.  
+A ideia é reunir diferentes problemas e suas soluções, servindo como espaço de aprendizado e evolução contínua.
 
-## Objetivo
-
+## Objetivos
 - Consolidar conceitos básicos e intermediários de Python.
-
 - Praticar lógica de programação.
-
 - Criar um histórico de exercícios resolvidos para futuras consultas.
 
 ## Estrutura
+Cada arquivo representa um exercício ou conjunto de exercícios resolvidos.  
+Novos arquivos e soluções serão adicionados conforme avanço nos estudos.
 
-Cada arquivo representa um exercício ou conjunto de exercícios resolvidos. Conforme avanço nos estudos, novos arquivos e soluções serão adicionados.
+## Pré-requisitos
+- Python 3.10 ou superior
+- Git instalado
 
 ## Como usar
-
 Clone este repositório:
-
+```bash
 git clone https://github.com/samuellcardoso/exercise_python
-
-Acesse a pasta do projeto:
-
 cd exercise_python
-
-Execute os arquivos Python:
-
-python nome_do_arquivo.py
-
-Atualizações
-
-Novos exercícios e soluções serão adicionados regularmente, acompanhando meu progresso no aprendizado de Python.
-
-✍️ Autor: Samuel Cardoso 📚 Repositório de estudos em Python
