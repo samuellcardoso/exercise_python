@@ -6,7 +6,9 @@ def analisar_lista():
     print(f'Soma dos pares: {sum_pares}')
     print(f'Soma dos impares: {sum_impares}')
     print(f'Maior numero: {maior}')
-analisar_lista()
+
+
+# -------------------------------------------------------
 
 import winsound
 import time
@@ -17,11 +19,17 @@ def lanca_foguete():
         if c == 0:
             print('Lancamento de foguete')
             winsound.Beep(1000, 1000)
-lanca_foguete()
+
+# -------------------------------------------------------
 
 def tabuada():
     num = int(input('Informe o numero para tabuada:\n'))
     print(f'Tabuada do {num}')
     for n in range(1, 11):
         print(f'{num} x {n} = {num * n}')
-tabuada()
+
+
+# Escolha qual rodar
+# analisar_lista()
+lanca_foguete()
+# tabuada()
