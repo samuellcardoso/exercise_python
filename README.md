@@ -25,8 +25,8 @@ O objetivo é consolidar conceitos básicos e intermediários de programação, 
 | [ex12.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex12.py) | Caixa de selecao de cores | Calculadora Basica                              |
 | [ex13.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex13.py) | Conta Bancaria | Cadastro de Animais | Calcular Area                        |
 | [ex14.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex14.py) | Avaliacao e Media da Nota de Filmes                                         |
-| [ex15.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex15.py) | Cadastro de Viagem                                                          |
-| [ex16.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex16.py) | Agenda de Contatos                                                          |
+| [ex15.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex15/ex15.py) | Cadastro de Viagem                                                          |
+| [ex16.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex16/ex16.py) | Agenda de Contatos                                                          |
 
 ## Como usar
 Clone este repositório:
