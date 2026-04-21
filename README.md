@@ -17,7 +17,7 @@ O objetivo é consolidar conceitos básicos e intermediários de programação, 
 | [ex4.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex4.py) | Lancamento Foguete | Tabuada de numeros                                     |
 | [ex5.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex5.py) | Conta letras maiusculas e minusculas | Verifica numero par e impar          |
 | [ex6.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex6.py) | Gerenciamento jogadores e times                                             |
-| [ex7.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex7.py) | Modulo de strings                                                           |
+| [ex7.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex7/ex7.py) | Modulo de strings                                                           |
 | [ex8.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex8.py) | Verificador de Senha forte                                                  |
 | [ex9.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex9.py) | Gerador de Senha                                                            |
 | [ex10.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex10.py) | Gera Hash | Compara Senha | Usando diferentes Hash | Sistema de autenticacao|
