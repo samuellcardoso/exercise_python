@@ -30,10 +30,10 @@ adivinha_numero()
 def quiz():
     quiz_data = {
         'Qual e a capital da Franca?' : 'Paris', 
-                    'Qual planeta e conhecido como "Planeta Vermelho"?' : 'Marte', 
-                    'Quem escreveu Dom Quixote?' : 'Miguel de Cervantes', 
-                    'Qual e o maior oceano do mundo?' : 'Oceano Pacifico', 
-                    'Em que ano o Brasil foi descoberto pelos portugueses?' : '1500'
+        'Qual planeta e conhecido como "Planeta Vermelho"?' : 'Marte', 
+        'Quem escreveu Dom Quixote?' : 'Miguel de Cervantes', 
+        'Qual e o maior oceano do mundo?' : 'Oceano Pacifico', 
+        'Em que ano o Brasil foi descoberto pelos portugueses?' : '1500'
     }
     perguntas = list(quiz_data.keys())
 
