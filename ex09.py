@@ -4,7 +4,7 @@ import random
 
 def gerador_senha():
     senha_chars = []
-    tamanho_senha = int(input('Qual o tamanho da senha:\n'))
+    tamanho_senha = int(input('Qual o tamanho da senha?\n'))
     
     letra_minuscula = string.ascii_lowercase
     letra_maiuscula = string.ascii_uppercase
