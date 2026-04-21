@@ -12,8 +12,10 @@ def menu():
     
     while True:
         print('-'*30)
+        
         for i, opcao in enumerate(opcoes, start=1):
             print(f'{i}-{opcao}')
+            
         print('-'*30)
             
         try:

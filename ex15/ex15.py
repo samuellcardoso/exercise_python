@@ -11,7 +11,7 @@ list_trip = [trip_1, trip_2, trip_3, trip_4, trip_5]
 print('Ola viajante, temos algumas ofertas para voce.')
 turista = input('Informe seu nome:\n')
 
-print(f'{turista} temos 5 destinos que combinam com voce:')
+print(f'{turista}, temos 5 destinos que combinam com voce:')
 for i, opcao in enumerate(list_trip, start=1):
     print(f'[{i}]-{opcao.destino}')
 
