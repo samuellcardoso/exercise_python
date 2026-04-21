@@ -11,22 +11,22 @@ O objetivo é consolidar conceitos básicos e intermediários de programação, 
 ## Estrutura dos Arquivos
 | Arquivo   | Descrição                                                                   |
 |-----------|---------------------------------------------------------------------------  |
-| ex01.py   | Antecessor e Sucessor Número / Média de Notas                               |
-| ex02.py   | Substituindo caractere repetido | Gerando strings                           |
-| ex03.py   | Calculo Distancia | Aumento Funcionario                                     |
-| ex04.py   | Lancamento Foguete | Tabuada de numeros                                     |
-| ex05.py   | Conta letras maiusculas e minusculas | Verifica numero par e impar          |
-| ex06.py   | Gerenciamento jogadores e times                                             |
-| ex07.py   | Modulo de strings                                                           |
-| ex08.py   | Verificador de Senha forte                                                  |
-| ex09.py   | Gerador de Senha                                                            |
-| ex10.py   | Gera Hash | Compara Senha | Usando diferentes Hash | Sistema de autenticacao|
-| ex11.py   | Adivinhacao de numero | Quiz aleatorio                                      |
-| ex12.py   | Caixa de selecao de cores | Calculadora Basica                              |
-| ex13.py   | Conta Bancaria | Cadastro de Animais | Calcular Area                        |
-| ex14.py   | Avaliacao e Media da Nota de Filmes                                         |
-| ex15.py   | Cadastro de Viagem                                                          |
-| ex16.py   | Agenda de Contatos                                                          |
+| [ex1.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex1.py) | Cadeia de Viagem |
+| [ex2.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex2.py) | Substituindo caractere repetido | Gerando strings                           |
+| [ex3.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex3.py) | Calculo Distancia | Aumento Funcionario                                     |
+| [ex4.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex4.py) | Lancamento Foguete | Tabuada de numeros                                     |
+| [ex5.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex5.py) | Conta letras maiusculas e minusculas | Verifica numero par e impar          |
+| [ex6.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex6.py) | Gerenciamento jogadores e times                                             |
+| [ex7.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex7.py) | Modulo de strings                                                           |
+| [ex8.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex8.py) | Verificador de Senha forte                                                  |
+| [ex9.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex9.py) | Gerador de Senha                                                            |
+| [ex10.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex10.py) | Gera Hash | Compara Senha | Usando diferentes Hash | Sistema de autenticacao|
+| [ex11.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex11.py) | Adivinhacao de numero | Quiz aleatorio                                      |
+| [ex12.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex12.py) | Caixa de selecao de cores | Calculadora Basica                              |
+| [ex13.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex13.py) | Conta Bancaria | Cadastro de Animais | Calcular Area                        |
+| [ex14.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex14.py) | Avaliacao e Media da Nota de Filmes                                         |
+| [ex15.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex15.py) | Cadastro de Viagem                                                          |
+| [ex16.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex16.py) | Agenda de Contatos                                                          |
 
 ## Como usar
 Clone este repositório:
