@@ -7,7 +7,6 @@ def conta_letras():
     print(f'Letras Maiusculas: {sum_maiuscula}')
     print(f'Letras Minusculas: {sum_minuscula}')
 
-
 # ------------------------------------------------------
 
 lista = [1, 2, 3, 4, 5, 6, 7, 8, 9]
