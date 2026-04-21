@@ -113,4 +113,4 @@ while True:
         else:
             print('Erro... Informe a opcao correta.')
     except ValueError:
-        print('Erro... Digite apenas opcoes validas.')
+        print('Erro... Digite apenas numeros.')
