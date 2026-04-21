@@ -21,7 +21,7 @@ while True:
     try:
         choice = int(input('> '))
     except ValueError:
-        print('Erro...Somente numeros.')
+        print('Erro... Somente numeros.')
         continue
 
     if choice == 1:
