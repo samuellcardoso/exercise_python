@@ -6,7 +6,9 @@ def conta_letras():
 
     print(f'Letras Maiusculas: {sum_maiuscula}')
     print(f'Letras Minusculas: {sum_minuscula}')
-conta_letras()
+
+
+# ------------------------------------------------------
 
 lista = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 def par_impar():
@@ -15,4 +17,8 @@ def par_impar():
 
     print(f'Numeros pares: {par} (total: {len(par)})')
     print(f'Numeros impares: {impar} (total: {len(impar)})')
+
+
+# Escolha qual rodar
+# conta_letras()
 par_impar()
