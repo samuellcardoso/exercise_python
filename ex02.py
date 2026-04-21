@@ -19,6 +19,7 @@ def gera_string(name):
 
 
 name = input('Informe a palavra:\n')
+
 # Escolha qual rodar
 # substitui_caracter(name)
 gera_string(name)
