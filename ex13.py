@@ -93,8 +93,9 @@ def conta_bacaria():
 # --------------------------------------------------------------
 
 # Cadastro de Animais
+from collections import Counter
+
 def cadastro_animais():
-    from collections import Counter
     class Animal():
         def __init__(self, name, category, size):
             self.name = name
@@ -171,10 +172,10 @@ def cadastro_animais():
 # --------------------------------------------------------------
 
 # Calculo de Area
-def calculo_area():
-    from abc import ABC, abstractmethod
-    import math
+from abc import ABC, abstractmethod
+import math
 
+def calculo_area():
     class FormaGeometrica(ABC):
         @abstractmethod
         def calcular_area(self):
