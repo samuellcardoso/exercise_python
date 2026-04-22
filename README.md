@@ -27,6 +27,7 @@ O objetivo é consolidar conceitos básicos e intermediários de programação, 
 | [ex14.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex14.py) | Avaliacao e Media da Nota de Filmes                                         |
 | [ex15.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex15/ex15.py) | Cadastro de Viagem                                                          |
 | [ex16.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex16/ex16.py) | Agenda de Contatos                                                          |
+| [ex17.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex17.py) | Gerenciador de Arquivos                                                    |
 
 ## Como usar
 Clone este repositório:
