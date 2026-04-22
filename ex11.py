@@ -1,6 +1,6 @@
+# Adivinha numero
 import random
 
-# Adivinha numero
 def adivinha_numero():
     numero_sorteado = random.randint(1, 10)
     chances = 3
