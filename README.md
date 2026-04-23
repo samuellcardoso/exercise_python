@@ -11,24 +11,24 @@ O objetivo é consolidar conceitos básicos e intermediários de programação, 
 ## Estrutura dos Arquivos
 | Arquivo   | Descrição                                                                   |
 |-----------|---------------------------------------------------------------------------  |
-| [ex01.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex01.py) | Cadeia de Viagem |
-| [ex02.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex02.py) | Substituindo caractere repetido | Gerando strings                           |
-| [ex03.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex03.py) | Calculo Distancia | Aumento Funcionario                                     |
-| [ex04.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex04.py) | Lancamento Foguete | Tabuada de numeros                                     |
-| [ex05.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex05.py) | Conta letras maiusculas e minusculas | Verifica numero par e impar          |
+| [ex01.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex01.py) | Antecessor e Sucessor Numero / Media de Notas |
+| [ex02.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex02.py) | Substituindo caractere repetido / Gerando strings                           |
+| [ex03.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex03.py) | Calculo Distancia / Aumento Funcionario                                     |
+| [ex04.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex04.py) | Lancamento Foguete / Tabuada de numeros                                     |
+| [ex05.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex05.py) | Conta letras maiusculas e minusculas / Verifica numero par e impar          |
 | [ex06.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex06.py) | Gerenciamento jogadores e times                                             |
 | [ex07.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex07/ex7.py) | Modulo de strings                                                           |
 | [ex08.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex08.py) | Verificador de Senha forte                                                  |
 | [ex09.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex09.py) | Gerador de Senha                                                            |
-| [ex10.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex10.py) | Gera Hash | Compara Senha | Usando diferentes Hash | Sistema de autenticacao|
-| [ex11.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex11.py) | Adivinhacao de numero | Quiz aleatorio                                      |
-| [ex12.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex12.py) | Caixa de selecao de cores | Calculadora Basica                              |
-| [ex13.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex13.py) | Conta Bancaria | Cadastro de Animais | Calcular Area                        |
+| [ex10.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex10.py) | Gera Hash / Compara Senha / Usando diferentes Hash / Sistema de autenticacao       |
+| [ex11.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex11.py) | Adivinhacao de numero / Quiz aleatorio                                      |
+| [ex12.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex12.py) | Caixa de selecao de cores / Calculadora Basica                              |
+| [ex13.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex13.py) | Conta Bancaria / Cadastro de Animais / Calcular Area                        |
 | [ex14.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex14.py) | Avaliacao e Media da Nota de Filmes                                         |
 | [ex15.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex15/ex15.py) | Cadastro de Viagem                                                          |
 | [ex16.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex16/ex16.py) | Agenda de Contatos                                                          |
 | [ex17.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex17.py) | Gerenciador de Arquivos                                                    |
-| [ex18.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex18/ex18.py) | Ler arquivo CSV | Escrever dados em um CSV | Calcular estatisticas                    |
+| [ex18.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex18/ex18.py) | Ler arquivo CSV / Escrever dados em um CSV / Calcular estatisticas                    |
 
 ## Como usar
 Clone este repositório:
