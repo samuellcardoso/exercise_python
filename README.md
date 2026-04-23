@@ -28,6 +28,7 @@ O objetivo é consolidar conceitos básicos e intermediários de programação, 
 | [ex15.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex15/ex15.py) | Cadastro de Viagem                                                          |
 | [ex16.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex16/ex16.py) | Agenda de Contatos                                                          |
 | [ex17.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex17.py) | Gerenciador de Arquivos                                                    |
+| [ex18.py](https://github.com/samuellcardoso/exercise_python/blob/master/ex18/ex18.py) | Ler arquivo CSV | Escrever dados em um CSV | Calcular estatisticas                    |
 
 ## Como usar
 Clone este repositório:
